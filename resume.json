@@ -1,0 +1,147 @@
+{
+	"basics": {
+		"name": "Bogdan Berezovyi",
+		"label": "Linux Administrator",
+		"picture": "",
+		"email": "bodkos@gmail.com",
+		"phone": "(067) 302-02-19",
+		"website": "",
+		"summary": "Linux Systems Administrator with more then 6 years hands on experience is server installation/configuration and support, valid RHCSA certificate",
+		"location": {
+			"postalCode": "79022",
+			"city": "Lviv",
+			"countryCode": "Ukraine"
+		}
+	},
+	"work": [{
+		"company": "Softserve",
+		"position": "Infrastructure Engineer",
+		"website": "http://softserve.com",
+		"startDate": "2014-01-01",
+		"summary": "Building and support of client's core IT infrastructure",
+		"highlights": [
+			"Automation and migration of DNS infrastructure",
+			"Moved to Git version control with review functionality",
+			"Cfengine to Puppet migration",
+			"Automation and migration of LDAP infrastructure",
+			"Deploying core infrastructure services in new datacenters"
+	      	]
+	},{
+		"company": "Softserve",
+		"position": "Monitoring Engineer",
+		"website": "http://softserve.com",
+		"startDate": "2013-05-01",
+		"endDate": "2014-01-01",
+		"summary": "Supporting monitoring infrastructure",
+		"highlights": [
+			"Supporting Nagios infrastructure",
+			"Writing Nagios plugins"
+	      	]
+	},{
+		"company": "Quintagroup",
+		"position": "Linux System Administrator (Hosting)",
+		"website": "http://quintagroup.com",
+		"startDate": "2009-04-01",
+		"endDate": "2013-05-01",
+		"summary": "Supporting company's web hosting servers",
+		"highlights": [
+			"Automating server installs and configuration",
+			"Monitoring, backup, virtualization, networking, etc" 
+	      	]
+	},{
+		"company": "Mikro-F",
+		"position": "Import-Export Specialist",
+		"website": "http://mikro-f.com",
+		"startDate": "2006-05-01",
+		"endDate": "2009-02-01",
+		"summary": "Import/export operations, procurement",
+		"highlights": [
+			"Negotiating with foreign suppliers of warehouse equipment",
+			"Preparing documentation for import/export operations" 
+	      	]
+	}
+	],
+	"education": [{
+		"institution": "Lviv National Politechnic University",
+		"area": "Economics",
+		"studyType": "Master",
+		"startDate": "2003-09-01",
+		"endDate": "2004-07-01"
+	}],
+	"skills": [{
+		"name": "OS",
+		"keywords": [
+			"RHEL/CentOS/Fedora",
+			"Ubuntu",
+			"FreeBSD"
+		]
+	}, {
+		"name": "Configuration Management",
+		"keywords": [
+			"Puppet",
+			"Fabric",
+			"Bcfg2",
+			"CfEngine",
+			"Cobbler",
+			"Ansible"
+		]
+	}, {
+		"name": "Core Services/Networking",
+		"keywords": [
+			"DNS",
+			"DHCP",
+			"YUM repos",
+			"Syslog",
+			"LDAP",
+			"OpenVPN",
+			"NFS",
+			"Samba",
+			"Bacula"
+		]
+	}, {
+		"name": "Virtualization",
+		"keywords": [
+			"Xen",
+			"KVM",
+			"VMware",
+			"VirutualBox",
+			"Vagrant"
+		]
+	}, {
+		"name": "Scripting",
+		"keywords": [
+			"Bash",
+			"Python"
+		]
+	}, {
+		"name": "Monitoring/Metrics",
+		"keywords": [
+			"Nagios",
+			"Munin",
+			"Graphite"
+		]
+	}, {
+		"name": "Version Control",
+		"keywords": [
+			"Git",
+			"Subversion",
+			"P4",
+			"CVS"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Upper Intermediate Strong"
+	},{ 
+		"language": "Polish",
+		"fluency": "Intermediate"
+	}],
+	"interests": [{
+		"name": "Music",
+		"keywords": [
+            "Electronic",
+			"Jazz",
+			"Art Rock"
+		]
+	}]
+}

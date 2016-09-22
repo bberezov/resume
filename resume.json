@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Bogdan Berezovyi",
-		"label": "Linux Administrator",
+		"label": "Linux Administrator/DevOps",
 		"picture": "",
 		"email": "bodkos@gmail.com",
 		"phone": "(067) 302-02-19",
 		"website": "",
-		"summary": "Linux Systems Administrator with more then 6 years of hands on experience in servers configuration, deployment, automation and support. Valid RHCSA certificate",
+		"summary": "Linux Systems Administrator, DevOps with more then 6 years of hands on experience in servers configuration, deployment, automation and support.Able to quickly learn new technologies and concepts. Good team player, team leading experience. Able to easily communicate with clients from various cultures. RHCSA certificate. ",
 		"location": {
 			"postalCode": "79022",
 			"city": "Lviv",
@@ -15,9 +15,23 @@
 	},
 	"work": [{
 		"company": "Softserve",
-		"position": "Infrastructure Engineer",
+		"position": "Infrastructure/Monitoring Team Lead",
+		"website": "http://softserve.com",
+		"startDate": "2016-05-01",
+		"summary": "Leading Infra/Monitoring team of 5-8 engineers",
+		"highlights": [
+            "Design highly available monitoring infra",
+            "Building parts of hybrid cloud infra solution based on OpenStack",
+			"Goto person for all technical issues inside the team",
+			"Conducting technical interviews",
+			"Mentoring of junior members of the team"
+	      	]
+	},{
+		"company": "Softserve",
+		"position": "Infrastructure Engineer/ Senior Infrastructure Engineer",
 		"website": "http://softserve.com",
 		"startDate": "2014-01-01",
+        "endData": "2016-05-01",
 		"summary": "Building and support of client's core IT infrastructure",
 		"highlights": [
             "Core Infrastructure support: Cobbler/DHCP/Puppet/Git/Nagios/Graphite",
@@ -86,6 +100,15 @@
 			"CfEngine"
 		]
 	}, {
+		"name": "Clouds and Orchestration",
+		"keywords": [
+			"OpenStack",
+            "AWS",
+			"Docker",
+			"Terraform",
+			"Kubernetes"
+		]
+	}, {
 		"name": "Core Services/Networking",
 		"keywords": [
 			"DNS",
@@ -120,7 +143,7 @@
 			"Munin",
 			"Graphite",
             "Splunk",
-            "ELK",
+            "ElasticSearch,Logstash,Kibana",
             "RabbitMQ"
 		]
 	}, {
